@@ -18,7 +18,7 @@ public class PersistenceConfiguration {
 //        DataSourceBuilder builder = DataSourceBuilder.create();
 //        builder.url("jdbc:postgresql://attrainingpg.postgres.database.azure.com:5432/conference_app");
 //        builder.username("pgadmin@attrainingpg");
-//        builder.password("P@ssword123!");
+//        builder.password("");
 //        System.out.println("Custom datasource bean has been initialized and set");
 //        return builder.build();
 //    }
